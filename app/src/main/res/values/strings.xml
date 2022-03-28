@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HolaMundoFGD</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="nombre">Escribe tu nombre:</string>
+    <string name="aceptar">Aceptar</string>
+
+</resources>
